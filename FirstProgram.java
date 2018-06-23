@@ -5,5 +5,9 @@ public class FirstProgram	{
 
 		System.out.println("This is my first program");
 
+		int x = 51;
+		int y = 52;
+		int z = 53;
+
 	}
 }
